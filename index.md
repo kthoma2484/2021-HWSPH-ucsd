@@ -9,12 +9,12 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "2021 - Aug 16 - 20"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "August 16-20th, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 
 humantime: "Mon.-Thur. 1pm - 3 pm & Fri. 11am-1pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-08-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-08-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Reid Otsuji (UCSD)","Kimberly Thomas (UCSD)","Harry Zhou(UCSD)","more TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Reid Otsuji (UCSD)","Rick McCosh (UCSD)","Harry Zhou(UCSD)","more TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Reid Otsuji(UCSD)","Kimberly Thomas(UCSD)","Ana Dantas Machado (UCSD)","more TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["kkt008@ucsd.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["timdennis@ucla.edu", "rotsuji@ucsd.edu", "speterso@library.berkeley.edu"]
 collaborative_notes: https://codimd.carpentries.org/fwkQLM2ZTuCRirtE16WjBQ  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
